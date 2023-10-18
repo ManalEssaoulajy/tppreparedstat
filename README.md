@@ -7,15 +7,18 @@
 
 voici le code test 
 
-![image](https://github.com/ManalEssaoulajy/TPISIC/assets/147450276/915c2652-d687-4762-8fbe-36998c786e61)
+![image](https://github.com/ManalEssaoulajy/tppreparedstat/assets/147450276/c300b000-577e-460b-8ea5-438a387dabd9)
+
 
 voici l'execution du code 
 
-![image](https://github.com/ManalEssaoulajy/TPISIC/assets/147450276/2484a9a4-3569-4137-95fd-53c11f0ed7ef)
+![image](https://github.com/ManalEssaoulajy/tppreparedstat/assets/147450276/8e7a9314-c425-4d77-9357-74cb97fff348)
+
 
 voici le diagramme de classe a travers localhost
 
-![image](https://github.com/ManalEssaoulajy/TPISIC/assets/147450276/26677cf4-46fe-48a7-9dfe-d187a17693f0)
+![image](https://github.com/ManalEssaoulajy/tppreparedstat/assets/147450276/32eb41a7-57aa-4f59-8b34-a498e9d5eff7)
+
 
 ### 2- Gestion des employés
 voici le code test
@@ -24,10 +27,7 @@ voici le code test
 
 
 
- localhost
  
- ![image](https://github.com/ManalEssaoulajy/TPISIC/assets/147450276/e99e4735-e5c0-415f-967f-fb322cb0a0cd)
-
 
 
 ### 3- Gestion client/service 
@@ -40,18 +40,19 @@ conception
 interface client
 
 
-![image](https://github.com/ManalEssaoulajy/TPISIC/assets/147450276/7f90926f-9709-4cb1-97a4-167333b66965)
+![image](https://github.com/ManalEssaoulajy/tppreparedstat/assets/147450276/30e1a99d-67af-472e-91b9-c9581b6b6598)
 
 
 
 
 BOUTON AJOUTER
 
-![image](https://github.com/ManalEssaoulajy/TPISIC/assets/147450276/b2fb1dcb-340c-4363-a0f1-4b7de3ba359b)
+![image](https://github.com/ManalEssaoulajy/tppreparedstat/assets/147450276/9862e577-c26d-4976-be73-248f817204e7)
 
 BOUTON SUPPRIMER 
 
-![image](https://github.com/ManalEssaoulajy/TPISIC/assets/147450276/9a19f6fd-f9c6-42e5-a07f-ca9a394ad8c8)
+![image](https://github.com/ManalEssaoulajy/tppreparedstat/assets/147450276/0d54dbd4-4653-4d06-8e5b-6e21776ad503)
+
 
 
 
